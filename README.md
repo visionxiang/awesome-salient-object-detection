@@ -1,6 +1,7 @@
 # Salient Object Detection
 
 A curated list of awesome resources for salient object detection (SOD),  including RGB-D SOD, CoSOD, part image SOD, and part concealed object detection (COD). We will keep updating it.
+
 :heavy_exclamation_mark:Updated 2021-09-20.
 
 
@@ -10,11 +11,10 @@ A curated list of awesome resources for salient object detection (SOD),  includi
 <!--TOC-->
 
 ## Content:
-
 - [Overview](#Overview)
-- [RGBD SOD](#RGBD SOD)
+- [RGBD SOD](#RGBD-SOD)
 - [CoSOD](#CoSOD)
-- [Image SOD](#Image SOD)
+- [Image SOD](#Image-SOD)
 - [COD](#COD)
 - [Appendix](#Appendix)
 
