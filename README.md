@@ -150,6 +150,11 @@ A curated list of awesome resources for salient object detection (SOD),  includi
 
 | **Year** | **Pub.** | **Title**                                                    | **Author**                                                   | **Links**                                                    |
 | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
+| 2021 | arXiv02 | Active Boundary Loss for Semantic Segmentation | Chi Wang, Yunke Zhang, et al. | [Paper](https://arxiv.org/abs/2102.02696)/Code |
+| 2021 | arXiv02 | CPP-Net: Context-aware Polygon Proposal Network for Nucleus Segmentation | Shengcong Chen, Dacheng Tao, et al. | [Paper](https://arxiv.org/abs/2102.06867)/Code |
+| 2021 | CVPR | Look Closer to Segment Better: Boundary Patch Refinement for Instance Segmentation | Chufeng Tang, Xiaolin Hu, et al. | [Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Tang_Look_Closer_To_Segment_Better_Boundary_Patch_Refinement_for_Instance_CVPR_2021_paper.html)/[Code](https://github.com/tinyalpha/BPR) |
+| 2021 | CVPR | Boundary IoU: Improving Object-Centric Image Segmentation Evaluation | Bowen Cheng, Ross Girshick, Piotr Dollár, et al. | [Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Cheng_Boundary_IoU_Improving_Object-Centric_Image_Segmentation_Evaluation_CVPR_2021_paper.html)/[Code](https://bowenc0221.github.io/boundary-iou/) | 
+| 2021 | TIP | Progressive Self-Guided Loss for Salient Object Detection | Sheng Yang, Weisi Lin, et al. | [Paper](https://arxiv.org/abs/2101.02412)/Code |
 |   2021   |   ICCV   | **Contrastive Multimodal Fusion with TupleInfoNCE**          | Yunze Liu, Li Yi, et al.                                     | [Paper](https://arxiv.org/pdf/2107.02575.pdf)/Code           |
 |   2021   |   TCYB   | PANet: Patch-Aware Network for Light Field Salient Object Detection | Yongri Piao, Huchuan Lu, et al.                              | Paper/Code                                                   |
 |   2021   |    MM    | Occlusion-aware Bi-directional Guided Network for Light Field Salient Object Detection | Dong Jing, Runmin Cong, et al.                               | Paper/Code                                                   |
