@@ -174,6 +174,7 @@ A curated list of awesome resources for salient object detection (SOD),  includi
 
 | **Year** | **Pub.** | **Title**                                                    | **Author**                                                   | **Links**                                                    |
 | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
+|   2021   |  arXiv08 | Free Lunch for Co-Saliency Detection: Context Adjustment | Lingdong Kong, Prakhar Ganesh, et al. | [Paper](https://arxiv.org/abs/2108.02093v4)/[Data](http://ldkong.com/data/sets/cat/home)
 |   2021   |   PAMI   | Re-thinking Co-Salient Object Detection                      | Deng-Ping Fan, et al.                                        | Paper/[Proj](http://dpfan.net/CoSOD3k/)                      |
 |   2021   |   TMM    | Image Co-saliency Detection and Instance Co-segmentation using Attention Graph Clustering based Graph Convolutional Network | Tengpeng Li, Qingshan Liu, et al.                            |                                                              |
 |   2021   |   ICCV   | Summarize and Search: Learning Consensus-Aware Dynamic Convolution for Co-Saliency Detection | Ni Zhang, Junwei Han, Nian Liu, Ling Shao                    | Paper/Code                                                   |
@@ -227,7 +228,8 @@ A curated list of awesome resources for salient object detection (SOD),  includi
 
 | **Pub.** | **Title**                                                    | **Author**                                                   | **Links**                                                    |
 | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
-|  arXiv   | Boundary-Aware Segmentation Network for Mobile and Web Applications | Xuebin Qin, Deng-Ping Fan, et al.                            | [Paper](https://arxiv.org/abs/2101.04704)/[Code](https://github.com/xuebinqin/BASNet) |
+|  arXiv08   | Unifying Global-Local Representations in Salient Object Detection with Transformer  | Sucheng Ren, Qiang Wen, et al. | [Paper](https://arxiv.org/abs/2108.02759)/Code
+|  arXiv01   | Boundary-Aware Segmentation Network for Mobile and Web Applications | Xuebin Qin, Deng-Ping Fan, et al.                            | [Paper](https://arxiv.org/abs/2101.04704)/[Code](https://github.com/xuebinqin/BASNet) |
 |   PAMI   | Part-Object Relational Visual Saliency                       | Yi Liu, Dingwen Zhang, et al.                                |                                                              |
 |   PAMI   | Saliency Prediction in the Deep Learning Era: Successes and Limitations | Ali Borji                                                    |                                                              |
 |   PAMI   | Salient Object Detection in the Deep Learning Era: An In-depth Survey | Wenguan Wang, et al.                                         |                                                              |
