@@ -2,7 +2,7 @@
 
 A curated list of awesome resources for salient object detection (SOD),  including RGB-D SOD, CoSOD, part image SOD, and part concealed object detection (COD). We will keep updating it.
 
-:heavy_exclamation_mark:Updated 2021-09-20.
+:heavy_exclamation_mark:Updated 2021-9-30.
 
 
 
