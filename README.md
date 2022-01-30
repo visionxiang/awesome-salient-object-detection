@@ -2,7 +2,7 @@
 
 A curated list of awesome resources for salient object detection (SOD),  including RGB-D SOD, CoSOD, part image SOD, and part concealed object detection (COD). We will keep updating it.
 
-:heavy_exclamation_mark:Updated 2021-12.
+:heavy_exclamation_mark:Updated 2022-01.
 
 
 
@@ -35,14 +35,24 @@ A curated list of awesome resources for salient object detection (SOD),  includi
 
 | **Year** | **Pub.** | **Title**                                                    | **Author**                                                   | **Links**                                                    |
 | :------: | :------- | :----------------------------------------------------------- | :----------------------------------------------------------- | ------------------------------------------------------------ |
+|   2021   | arXiv12  | Transformer-based Network for RGB-D Saliency Detection | Yue Wang, Huchuan Lu, et al. | [Paper](https://arxiv.org/abs/2112.00582)/Code
 |   2021   | arXiv09  | ACFNet: Adaptively-Cooperative Fusion Network for RGB-D Salient Object Detection | Jinchao Zhu, et al.                                          | [arXiv](https://arxiv.org/pdf/2109.04627.pdf)/Code           |
 |   2021   | arXiv06  | Dynamic Knowledge Distillation with A Single Stream Structure for RGB-D Salient Object Detection | Guangyu Ren, Tania Stathaki                                  | [Paper](https://arxiv.org/pdf/2106.09517.pdf)/Code           |
 |   2021   | arXiv06  | Progressive Multi-scale Fusion Network for RGB-D Salient Object Detection | Guangyu Ren, et al.                                          | [Paper](https://arxiv.org/pdf/2106.03941.pdf)/Code           |
 |   2021   | arXiv04  | Middle-level Fusion for Lightweight RGB-D Salient Object Detection | N. Huang, Qiang Jiao, Qiang Zhang, Jungong Han               | [Paper](https://arxiv.org/pdf/2104.11543.pdf)/Code           |
-|   2021   | arXiv01  | Self-Supervised Representation Learning for RGB-D Salient Object Detection | Xiaoqi Zhao, Huchuan Lu, et al.                              | [Paper](https://arxiv.org/pdf/2101.12482.pdf)/Code           |
 |   2020   | arXiv12  | A Unified Structure for Efficient RGB and RGB-D Salient Object Detection | Peng Peng and Yong-Jie Li                                    | [arXiv](https://arxiv.org/pdf/2012.00437.pdf)/Code           |
-|   2020   | arXiv10  | Synergistic Saliency and Depth Prediction for RGB-D Saliency Detection | <span style="white-space:nowrap;">Y. Wang, Huchuan Lu, et al.&emsp; </span> | [Paper](https://arxiv.org/pdf/2007.01711.pdf)/Code           |
 |   2020   | arXiv08  | <span style="white-space:nowrap;">Knowing Depth Quality In Advance: A Depth Quality Assessment Method For RGB-D Salient Object Detection&emsp; </span> | Xuehao Wang, et al.                                          | [Paper](https://arxiv.org/abs/2008.04157)/[Code](https://github.com/XueHaoWang-Beijing/DQSF?utm_source=catalyzex.com) |
+
+
+
+
+#### 2022 
+
+| **No.** | **Pub.** | **Title**                                                    | **Author**                                                   | **Links**                                                    |
+| :-----: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
+|   01   | AAAI  | Self-Supervised Representation Learning for RGB-D Salient Object Detection | Xiaoqi Zhao, Huchuan Lu, et al.                              | [Paper](https://arxiv.org/pdf/2101.12482.pdf)/[Code](https://github.com/Xiaoqi-Zhao-DLUT/SSLSOD) |
+
+
 
 
 #### 2021
