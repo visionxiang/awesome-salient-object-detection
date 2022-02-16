@@ -31,10 +31,11 @@ A curated list of awesome resources for salient object detection (SOD),  includi
 
 ## RGBD SOD
 
-#### Preprint
+### Preprint
 
 | **Year** | **Pub.** | **Title**                                                    | **Author**                                                   | **Links**                                                    |
 | :------: | :------- | :----------------------------------------------------------- | :----------------------------------------------------------- | ------------------------------------------------------------ |
+|   2021   | arXiv12  | MutualFormer: Multi-Modality Representation Learning via Mutual Transformer | Xixi Wang, Bo Jiang, et al. | [Paper](https://arxiv.org/abs/2112.01177)/Code
 |   2021   | arXiv12  | Transformer-based Network for RGB-D Saliency Detection | Yue Wang, Huchuan Lu, et al. | [Paper](https://arxiv.org/abs/2112.00582)/Code
 |   2021   | arXiv09  | ACFNet: Adaptively-Cooperative Fusion Network for RGB-D Salient Object Detection | Jinchao Zhu, et al.                                          | [arXiv](https://arxiv.org/pdf/2109.04627.pdf)/Code           |
 |   2021   | arXiv06  | Dynamic Knowledge Distillation with A Single Stream Structure for RGB-D Salient Object Detection | Guangyu Ren, Tania Stathaki                                  | [Paper](https://arxiv.org/pdf/2106.09517.pdf)/Code           |
@@ -46,7 +47,7 @@ A curated list of awesome resources for salient object detection (SOD),  includi
 
 
 
-#### 2022 
+### 2022 
 
 | **No.** | **Pub.** | **Title**                                                    | **Author**                                                   | **Links**                                                    |
 | :-----: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
@@ -55,7 +56,7 @@ A curated list of awesome resources for salient object detection (SOD),  includi
 
 
 
-#### 2021
+### 2021
 
 | **No.** | **Pub.** | **Title**                                                    | **Author**                                                   | **Links**                                                    |
 | :-----: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
@@ -79,6 +80,7 @@ A curated list of awesome resources for salient object detection (SOD),  includi
 
 | **No.** | **Pub.** | **Title**                                                    | **Author**                                                   | **Links**                                                    |
 | :-----: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
+|   10    |   ICCV   | Visual Saliency Transformer                                  | Nian Liu, Junwei Han, et al.                                 | [Paper](https://arxiv.org/pdf/2104.12099.pdf)/[Code](https://github.com/nnizhang/VST#visual-saliency-transformer-vst) |
 |   09    |   ICCV   | Specificity-preserving RGB-D Saliency Detection              | Tao Zhou, et al.                                             | [Paper](https://arxiv.org/abs/2108.08162)/[Code](https://github.com/taozh2017/SPNet) |
 |   08    |   ICCV   | RGB-D Saliency Detection via Cascaded Mutual Information Minimization | Jing Zhang, Deng-Ping Fan, et al.                            | [Paper](https://arxiv-download.xixiaoyao.cn/pdf/2109.07246.pdf)/[Code](https://github.com/JingZhang617/cascaded_rgbd_sod) |
 |   07    |    MM    | Depth Quality-Inspired Feature Manipulation for Efficient RGB-D Salient Object Detection | Wenbo Zhang, Keren Fu, et al.                                | [Paper](https://arxiv.org/abs/2107.01779)/[Code](https://github.com/zwbx/DFM-Net) |
@@ -89,7 +91,9 @@ A curated list of awesome resources for salient object detection (SOD),  includi
 |   02    |   CVPR   | Calibrated RGB-D Salient Object Detection                    | Wei Ji, Shuang Yu, et al.                                    | [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Ji_Calibrated_RGB-D_Salient_Object_Detection_CVPR_2021_paper.pdf)/[Code](https://github.com/jiwei0921/DCF) |
 |   01    |   AAAI   | <span style="white-space:nowrap;">RGB-D Salient Object Detection via 3D Convolutional Neural Networks &emsp; </span> | <span style="white-space:nowrap;">Qian Chen, Keren Fu, et al. &emsp;</span> | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16191)/[Code](https://github.com/PPOLYpubki/RD3D) |
 
-#### 2020
+
+
+### 2020
 
 | **No.** | **Pub.** | **Title**                                                    | **Author**                                                   | **Links**                                                    |
 | :-----: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
@@ -125,7 +129,10 @@ A curated list of awesome resources for salient object detection (SOD),  includi
 |   04    |   CVPR   | Label Decoupling Framework for Salient Object Detection      | Jun Wei, et al.                                              | Paper/[Code](https://github.com/weijun88/LDF)                |
 |   03    |   CVPR   | <span style="white-space:nowrap;">Learning Selective Self-Mutual Attention for RGB-D Saliency Detection&emsp;</span> | <span style="white-space:nowrap;">Nian Liu, Ni Zhang, et al.&emsp;</span> | Paper/[Code](https://github.com/nnizhang/SMAC?utm_source=catalyzex.com)<br>[Extension](https://arxiv.org/abs/2010.05537) |
 
-#### 2019 
+
+
+
+### 2019 
 
 | **No.** | **Pub.** | **Title**                                                    | **Author**                                                   | **Links**                                                    |
 | :-----: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
@@ -138,7 +145,7 @@ A curated list of awesome resources for salient object detection (SOD),  includi
 |   01    |   CVPR   | S4Net: Single Stage Salient-Instance Segmentation            |                                                              |                                                              |
 
 
-#### 2018
+### 2018
 
 | **No.** | **Pub.** | **Title**                                                    | **Author**                                                   | **Links** |
 | :-----: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- | :-------- |
@@ -147,7 +154,7 @@ A curated list of awesome resources for salient object detection (SOD),  includi
 |   01    |   CVPR   | <span style="white-space:nowrap;">PiCANet: Learning Pixel-wise Contextual Attention for Saliency Detection &emsp;</span> |                                                              |           |
 
 
-#### 2017
+### 2017
 
 | **No.** | **Pub.** | **Title**                                                    | **Author**                                                   | **Links** |
 | :-----: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- | :-------- |
@@ -155,7 +162,9 @@ A curated list of awesome resources for salient object detection (SOD),  includi
 |   02    |   TIP    | <span style="white-space:nowrap;">Edge Preserving and Multi-Scale Contextual Neural Network for Salient Object Detection &emsp;</span> | <span style="white-space:nowrap;">Xiang Wang, Huimin Ma, Xiaozhi Chen, Shaodi You&emsp;</span> |           |
 |   01    |   CVPR   | Instance-Level Salient Object Segmentation                   |                                                              |           |
 
-#### Beyond
+
+
+### Beyond
 
 | **Year** | **Pub.** | **Title**                                                    | **Author**                                                   | **Links**                                                    |
 | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
@@ -184,6 +193,7 @@ A curated list of awesome resources for salient object detection (SOD),  includi
 | **Year** | **Pub.** | **Title**                                                    | **Author**                                                   | **Links**                                                    |
 | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
 |   2021   |  arXiv08 | Free Lunch for Co-Saliency Detection: Context Adjustment | Lingdong Kong, Prakhar Ganesh, et al. | [Paper](https://arxiv.org/abs/2108.02093v4)/[Data](http://ldkong.com/data/sets/cat/home)
+|   2021   |  arXiv04 | CoSformer: Detecting Co-Salient Object with Transformers | Lv Tang | [Paper](https://arxiv.org/pdf/2104.14729.pdf)/Code
 |   2021   |   PAMI   | Re-thinking Co-Salient Object Detection                      | Deng-Ping Fan, et al.                                        | Paper/[Proj](http://dpfan.net/CoSOD3k/)                      |
 |   2021   |   TMM    | Image Co-saliency Detection and Instance Co-segmentation using Attention Graph Clustering based Graph Convolutional Network | Tengpeng Li, Qingshan Liu, et al.                            |                                                              |
 |   2021   |   ICCV   | Summarize and Search: Learning Consensus-Aware Dynamic Convolution for Co-Saliency Detection | Ni Zhang, Junwei Han, Nian Liu, Ling Shao                    | Paper/Code                                                   |
@@ -258,7 +268,6 @@ A curated list of awesome resources for salient object detection (SOD),  includi
 |   TIP    | Hierarchical and Interactive Refinement Network for Edge-Preserving Salient Object Detection | Sanping Zhou, et al.                                         |                                                              |
 |   TIP    | Salient Object Detection With Purificatory Mechanism and Structural Similarity Loss | Jia Li, et al.                                               |                                                              |
 |   TIP    | Hierarchical Edge Refinement Network for Saliency Detection  | D. Song, Yongsheng Dong, Xuelong Li                          |                                                              |
-|   ICCV   | Visual Saliency Transformer                                  | Nian Liu, Junwei Han, et al.                                 | [Paper](https://arxiv.org/pdf/2104.12099.pdf)/[Code](https://github.com/nnizhang/VST#visual-saliency-transformer-vst) |
 |   ICCV   | Scene Context-Aware Salient Object Detection                 | Avishek Siris, Jianbo Jiao, et al.                           | Paper/Code                                                   |
 |   ICML   | DANCE: Enhancing saliency maps using decoys                  | Yang Lu, Willian Stafford Noble, et al.                      | Paper/[Code](https://bitbucket.org/noblelab/dance/src/master/) |
 |   AAAI   | Pyramidal Feature Shrinking for Salient Object Detection     | Mingcan Ma, Changqun Xia, Jia Li                             |                                                              |
