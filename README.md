@@ -35,6 +35,7 @@ A curated list of awesome resources for salient object detection (SOD),  includi
 
 | **Year** | **Pub.** | **Title**                                                    | **Author**                                                   | **Links**                                                    |
 | :------: | :------- | :----------------------------------------------------------- | :----------------------------------------------------------- | ------------------------------------------------------------ |
+|   2021  | arXiv12 | TransCMD: Cross-Modal Decoder Equipped with Transformer for RGB-D Salient Object Detection | Youwei Pang, Lihe Zhang, et al. | [Paper](https://arxiv.org/abs/2112.02363)/Code
 |   2021   | arXiv12  | MutualFormer: Multi-Modality Representation Learning via Mutual Transformer | Xixi Wang, Bo Jiang, et al. | [Paper](https://arxiv.org/abs/2112.01177)/Code
 |   2021   | arXiv12  | Transformer-based Network for RGB-D Saliency Detection | Yue Wang, Huchuan Lu, et al. | [Paper](https://arxiv.org/abs/2112.00582)/Code
 |   2021   | arXiv09  | ACFNet: Adaptively-Cooperative Fusion Network for RGB-D Salient Object Detection | Jinchao Zhu, et al.                                          | [arXiv](https://arxiv.org/pdf/2109.04627.pdf)/Code           |
