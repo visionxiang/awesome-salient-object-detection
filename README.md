@@ -2,7 +2,7 @@
 
 A curated list of awesome resources for salient object detection (SOD),  including RGB-D SOD, CoSOD, and part image SOD. We will keep updating it.
 
-:heavy_exclamation_mark:Updated 2022-01.
+:heavy_exclamation_mark:Updated 2022-04.
 
 
 
@@ -193,8 +193,11 @@ A curated list of awesome resources for salient object detection (SOD),  includi
 
 | **Year** | **Pub.** | **Title**                                                    | **Author**                                                   | **Links**                                                    |
 | :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
-|   2021   |  arXiv08 | Free Lunch for Co-Saliency Detection: Context Adjustment | Lingdong Kong, Prakhar Ganesh, et al. | [Paper](https://arxiv.org/abs/2108.02093v4)/[Data](http://ldkong.com/data/sets/cat/home)
-|   2021   |  arXiv04 | CoSformer: Detecting Co-Salient Object with Transformers | Lv Tang | [Paper](https://arxiv.org/pdf/2104.14729.pdf)/Code
+|   --   |  arXiv2108 | Free Lunch for Co-Saliency Detection: Context Adjustment | Lingdong Kong, Prakhar Ganesh, et al. | [Paper](https://arxiv.org/abs/2108.02093v4)/[Data](http://ldkong.com/data/sets/cat/home)
+|   --   |  arXiv2104 | CoSformer: Detecting Co-Salient Object with Transformers | Lv Tang | [Paper](https://arxiv.org/pdf/2104.14729.pdf)/Code
+|   2022   |   CVPR   | Democracy Does Matter: Comprehensive Feature Mining for Co-Salient Object Detection | Siyue Yu, Jimin Xiao, et al. | [Paper](https://arxiv.org/abs/2203.05787)/Code
+|   2022   |   CVPR   | Can You Spot the Chameleon? Adversarially Camouflaging Images from Co-Salient Object Detection | Ruijun Gao, Qing Guo, et al. | [Paper](https://arxiv.org/abs/2009.09258)/Code
+| | | | |
 |   2021   |   PAMI   | Re-thinking Co-Salient Object Detection                      | Deng-Ping Fan, et al.                                        | Paper/[Proj](http://dpfan.net/CoSOD3k/)                      |
 |   2021   |   TMM    | Image Co-saliency Detection and Instance Co-segmentation using Attention Graph Clustering based Graph Convolutional Network | Tengpeng Li, Qingshan Liu, et al.                            |                                                              |
 |   2021   |   ICCV   | Summarize and Search: Learning Consensus-Aware Dynamic Convolution for Co-Saliency Detection | Ni Zhang, Junwei Han, Nian Liu, Ling Shao                    | Paper/Code                                                   |
