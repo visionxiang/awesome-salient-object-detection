@@ -1,6 +1,6 @@
 # Salient Object Detection
 
-A curated list of awesome resources for salient object detection (SOD),  including RGB-D SOD, CoSOD, and part image SOD. We will keep updating it.
+A curated list of awesome resources for salient object detection (SOD), including RGB-D SOD, CoSOD, and part image SOD. We will keep updating it.
 
 :heavy_exclamation_mark:Updated 2022-04.
 
@@ -12,8 +12,8 @@ A curated list of awesome resources for salient object detection (SOD),  includi
 
 ## Content:
 - [Overview](#Overview)
-- [RGBD SOD](#RGBD-SOD)
-- [CoSOD](#CoSOD)
+- [RGB-D SOD](#RGBD-SOD)
+- [Co-SOD](#CoSOD)
 - [Image SOD](#Image-SOD)
 - [Appendix](#Appendix)
 
@@ -247,10 +247,19 @@ A curated list of awesome resources for salient object detection (SOD),  includi
 
 ## Image SOD
 
+#### 2022
+
+| **Pub.** | **Title**                                                    | **Author**                                                   | **Links**                                                    |
+| :------: | :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
+AAAI | Weakly-Supervised Salient Object Detection Using Point Supervison | Shuyong Gao, Wei Zhang, et al. | [Paper](https://arxiv.org/pdf/2203.11652.pdf)/[Code](https://github.com/shuyonggao/PSOD)
+
+
+
 #### 2021 
 
 | **Pub.** | **Title**                                                    | **Author**                                                   | **Links**                                                    |
 | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
+| NeurIPS | Learning Generative Vision Transformer with Energy-Based Latent Space for Saliency Prediction | Jing Zhang, Jianwen Xie, et al. | [Paper](https://papers.nips.cc/paper/2021/file/8289889263db4a40463e3f358bb7c7a1-Paper.pdf)/Code
 |  arXiv08   | Unifying Global-Local Representations in Salient Object Detection with Transformer  | Sucheng Ren, Qiang Wen, et al. | [Paper](https://arxiv.org/abs/2108.02759)/Code
 |  arXiv01   | Boundary-Aware Segmentation Network for Mobile and Web Applications | Xuebin Qin, Deng-Ping Fan, et al.                            | [Paper](https://arxiv.org/abs/2101.04704)/[Code](https://github.com/xuebinqin/BASNet) |
 |   PAMI   | Part-Object Relational Visual Saliency                       | Yi Liu, Dingwen Zhang, et al.                                |                                                              |
