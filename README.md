@@ -1,6 +1,6 @@
 # Salient Object Detection
 
-A curated list of awesome resources for salient object detection (SOD), including RGB-D SOD, CoSOD, and part image SOD. We will keep updating it.
+A curated list of awesome resources for salient object detection (SOD), including RGB-D SOD, and part image SOD. We will keep updating it.
 
 :heavy_exclamation_mark:Updated 2022-04.
 
@@ -13,7 +13,6 @@ A curated list of awesome resources for salient object detection (SOD), includin
 ## Content:
 - [Overview](#Overview)
 - [RGB-D SOD](#RGBD-SOD)
-- [Co-SOD](#CoSOD)
 - [Image SOD](#Image-SOD)
 - [Appendix](#Appendix)
 
@@ -185,62 +184,6 @@ A curated list of awesome resources for salient object detection (SOD), includin
 |   2019   | NeurIPS  | <span style="white-space:nowrap;">One-Shot Object Detection with Co-Attention and Co-Excitation &emsp;</span> | Ting-I Hsieh, et al.                                         | [Paper](https://papers.nips.cc/paper/2019/file/92af93f73faf3cefc129b6bc55a748a9-Paper.pdf)/[Code](https://github.com/timy90022/One-Shot-Object-Detection) |
 |   2019   |   ICCV   | RGB-Infrared Cross-Modality Person Re-Identification via Joint Pixel and Feature Alignment | Guan’an Wang, et al.                                         | Paper/[Code](https://github.com/wangguanan/AlignGAN)         |
 
-
-
-## CoSOD
-
-- More related works can be found in: [CoSOD paper list](http://dpfan.net/CoSOD3k/) 
-
-| **Year** | **Pub.** | **Title**                                                    | **Author**                                                   | **Links**                                                    |
-| :------: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
-|   --   |  arXiv2108 | Free Lunch for Co-Saliency Detection: Context Adjustment | Lingdong Kong, Prakhar Ganesh, et al. | [Paper](https://arxiv.org/abs/2108.02093v4)/[Data](http://ldkong.com/data/sets/cat/home)
-|   --   |  arXiv2104 | CoSformer: Detecting Co-Salient Object with Transformers | Lv Tang | [Paper](https://arxiv.org/pdf/2104.14729.pdf)/Code
-|   2022   |   CVPR   | Democracy Does Matter: Comprehensive Feature Mining for Co-Salient Object Detection | Siyue Yu, Jimin Xiao, et al. | [Paper](https://arxiv.org/abs/2203.05787)/Code
-|   2022   |   CVPR   | Can You Spot the Chameleon? Adversarially Camouflaging Images from Co-Salient Object Detection | Ruijun Gao, Qing Guo, et al. | [Paper](https://arxiv.org/abs/2009.09258)/Code
-| | | | |
-|   2021   |   PAMI   | Re-thinking Co-Salient Object Detection                      | Deng-Ping Fan, et al.                                        | Paper/[Proj](http://dpfan.net/CoSOD3k/)                      |
-|   2021   |   TMM    | Image Co-saliency Detection and Instance Co-segmentation using Attention Graph Clustering based Graph Convolutional Network | Tengpeng Li, Qingshan Liu, et al.                            |                                                              |
-|   2021   |   ICCV   | Summarize and Search: Learning Consensus-Aware Dynamic Convolution for Co-Saliency Detection | Ni Zhang, Junwei Han, Nian Liu, Ling Shao                    | Paper/Code                                                   |
-|   2021   |   CVPR   | DeepACG: Co-Saliency Detection via Semantic-Aware Contrast Gromov-Wasserstein Distance |                                                              |                                                              |
-|   2021   |   CVPR   | Group Collaborative Learning for Co-Salient Object Detection |                                                              |                                                              |
-|   2021   |   AAAI   | Multi-scale Graph Fusion for Co-saliency Detection           | Rongyao Hu, Zhenyun Deng, Xiaofeng Zhu                       | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16951)/Code |
-|          |          |                                                              |                                                              |                                                              |
-|          |          |                                                              |                                                              |                                                              |
-|   2020   |   PAMI   | Zero-Shot Video Object Segmentation with Co-Attention Siamese Networks | Xiankai Lu, Wenguan Wang, et al.                             | Paper/[Code](https://github.com/carrierlxk/COSNet)           |
-|   2020   |   TNN    | Robust Deep Co-Saliency Detection With Group Semantic and Pyramid Attention | Zheng-Jun Zhang, et al.                                      | Paper/Code                                                   |
-|   2020   |   TMM    | Deep Co-Saliency Detection via Stacked Autoencoder-Enabled Fusion and Self-Trained CNNs | Chung-Chi Tsai, et al.                                       | Paper/Code                                                   |
-|   2020   |   TMM    | A New Method and Benchmark for Detecting Co-Saliency Within a Single Image | Hongkai You, et al.                                          | Paper/Code                                                   |
-|   2020   | NeurIPS  | ICNet: Intra-saliency Correlation Network for Co-Saliency Detection | Wen-Da Jin, Ming-Ming Cheng, et al.                          | [Paper](https://proceedings.neurips.cc/paper/2020/file/d961e9f236177d65d21100592edb0769-Paper.pdf)/Code |
-|   2020   | NeurIPS  | CoADNet: Collaborative Aggregation-and-Distribution Networks for Co-Salient Object Detection | Qijian Zhang, Runmin Cong                                    | [Paper](https://arxiv.org/pdf/2011.04887.pdf)/[Code](https://github.com/rmcong/CoADNet_NeurIPS20) |
-|   2020   |   CVPR   | Taking a Deeper Look at Co-Salient Object Detection          | Deng-Ping Fan, et al                                         | Paper/[Proj](http://dpfan.net/CoSOD3k/)                      |
-|   2020   |   CVPR   | Adaptive Graph Convolutional Network With Attention Graph Clustering for Co-Saliency Detection |                                                              |                                                              |
-|   2020   |   ECCV   | Gradient-Induced Co-Saliency Detection                       |                                                              |                                                              |
-|          |          |                                                              |                                                              |                                                              |
-|          |          |                                                              |                                                              |                                                              |
-|   2019   |   TIP    | Class Agnostic Image Common Object Detection                 | Shuqiang Jiang, et al.                                       |                                                              |
-|   2019   |   TIP    | Deep Group-Wise Fully Convolutional Network for Co-Saliency Detection With Graph Propagation | Lina Wei, et al.                                             |                                                              |
-|   2019   |   TIP    | Image Co-Saliency Detection and Co-Segmentation via Progressive Joint Optimization | Chung-Chi Tsai, et al.                                       |                                                              |
-|   2019   |   TIP    | Salient Object Detection With Lossless Feature Reflection and Weighted Structural Loss | P. Zhang, Wei Liu, Huchuan Lu, et al.                        |                                                              |
-|   2019   |   TCYB   | An Iterative Co-Saliency Framework for RGBD Images           | Runmin Cong, et al.                                          |                                                              |
-|   2019   |   ICCV   | Group-Wise Deep Object Co-Segmentation With Co-Attention Recurrent Neural Network | Bo Li, et al.                                                | [Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Group-Wise_Deep_Object_Co-Segmentation_With_Co-Attention_Recurrent_Neural_Network_ICCV_2019_paper.pdf)/[Code](https://github.com/francesco-p/group-wise-iccv19) |
-|   2019   |   CVPR   | Co-Saliency Detection via Mask-Guided Fully Convolutional Networks With Multi-Scale Label Smoothing |                                                              |                                                              |
-|   2019   |   AAAI   | Robust Deep Co-Saliency Detection with Group Semantic        | Chong Wang, Zheng-Jun Zha, et al.                            | [Paper](https://ojs.aaai.org//index.php/AAAI/article/view/4919)/Code |
-|   2019   |    MM    | A Unified Multiple Graph Learning and Convolutional Network Model for Co-saliency Estimation | Bo Jiang, et al.                                             | [Paper](https://doi.org/10.1145/3343031.3350860)/Code        |
-|   2019   |    MM    | Co-saliency Detection Based on Hierarchical Consistency      | Bo Li, Zhengxing Sun, Quan Wang, Qian Li                     | [Paper](https://dl.acm.org/doi/10.1145/3343031.3351016)/Code |
-|          |          |                                                              |                                                              |                                                              |
-|          |          |                                                              |                                                              |                                                              |
-|   2018   |   TIP    | Co-Saliency Detection for RGBD Images Based on Multi-Constraint Feature Matching and Cross Label Propagation | Ruiming Cong, et al.                                         |                                                              |
-|   2018   |   TIP    | Co-Salient Object Detection Based on Deep Saliency Networks and Seed Propagation Over an Integrated Graph | Dong-ju Jeong, Insung Hwang, Nam Ik Cho                      |                                                              |
-|   2018   |   TMM    | HSCS: Hierarchical Sparsity Based Co-saliency Detection for RGBD Images | Runmin Song, Huazhu Fu, et al.                               |                                                              |
-|   2018   |   ECCV   | Unsupervised CNN-based Co-Saliency Detection with Graphical Optimization |                                                              |                                                              |
-|   2018   |   AAAI   | Co-Saliency Detection Within a Single Image                  | Hongkai Yu, et al.                                           | [Paper](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16886)/Code |
-|   2018   |    MM    | A Feature-Adaptive Semi-Supervised Framework for Co-saliency Detection | X. Zheng, Zheng-Jun Zha, Liansheng Zhuang                    | [Paper](https://dl.acm.org/doi/10.1145/3240508.3240648)/Code |
-|          |          |                                                              |                                                              |                                                              |
-|          |          |                                                              |                                                              |                                                              |
-|   2017   |   PAMI   | Co-Saliency Detection via a Self-Paced Multiple-Instance Learning Framework | Dingwen Zhang, et al.                                        |                                                              |
-|   2017   |   AAAI   | Image Cosegmentation via Saliency-Guided Constrained Clustering with Cosine Similarity | Zhiqiang Tao, Huazhu Fu, et al.                              | [Paper](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14331)/Code |
-|   2016   |   IJCV   | Detection of Co-salient Objects by Looking Deep and Wide     | Dingwen Zhang, Junwei Han, et al.                            |                                                              |
-|   2016   |   ECCV   | <span style="white-space:nowrap;">Image Co-segmentation Using Maximum Common Subgraph Matching and Region Co-growing &emsp;</span> | <span style="white-space:nowrap;">Avik Hati, S. Chaudhuri, Rajbabu Velmurugan&emsp;</span> |                                                              |
 
 
 
