@@ -34,6 +34,8 @@ A curated list of awesome resources for salient object detection (SOD), includin
 
 | **Year** | **Pub.** | **Title**                                                    | **Author**                                                   | **Links**                                                    |
 | :------: | :------- | :----------------------------------------------------------- | :----------------------------------------------------------- | ------------------------------------------------------------ |
+|   2022  | arXiv | GroupTransNet: Group Transformer Network for RGB-D Salient Object Detection | Xian Feng, Jinshao Zhu, et al. | [Paper](https://arxiv.org/abs/2203.10785)/Cpde
+|   2022  | arXiv | Dual Swin-Transformer based Mutual Interactive Network for RGB-D Salient Object Detection | Chao Zeng, Sam Kwong | [Paper](https://arxiv.org/abs/2206.03105)/Code
 |   2021  | arXiv12 | TransCMD: Cross-Modal Decoder Equipped with Transformer for RGB-D Salient Object Detection | Youwei Pang, Lihe Zhang, et al. | [Paper](https://arxiv.org/abs/2112.02363)/Code
 |   2021   | arXiv12  | MutualFormer: Multi-Modality Representation Learning via Mutual Transformer | Xixi Wang, Bo Jiang, et al. | [Paper](https://arxiv.org/abs/2112.01177)/Code
 |   2021   | arXiv12  | Transformer-based Network for RGB-D Saliency Detection | Yue Wang, Huchuan Lu, et al. | [Paper](https://arxiv.org/abs/2112.00582)/Code
@@ -51,6 +53,7 @@ A curated list of awesome resources for salient object detection (SOD), includin
 
 | **No.** | **Pub.** | **Title**                                                    | **Author**                                                   | **Links**                                                    |
 | :-----: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
+|   02   |  TIP  | Boosting RGB-D Saliency Detection by Leveraging Unlabeled RGB Images | Xiaoqiang Wang, et al. | [Paper](https://arxiv.org/abs/2201.00100)/Code
 |   01   | AAAI  | Self-Supervised Representation Learning for RGB-D Salient Object Detection | Xiaoqi Zhao, Huchuan Lu, et al.                              | [Paper](https://arxiv.org/pdf/2101.12482.pdf)/[Code](https://github.com/Xiaoqi-Zhao-DLUT/SSLSOD) |
 
 
@@ -190,10 +193,21 @@ A curated list of awesome resources for salient object detection (SOD), includin
 
 ## Image SOD
 
+#### Preprint
+
+| **Year.** | **Title**                                                    | **Author**                                                   | **Links**                                                    |
+| :------: | :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
+2022 | DFTR: Depth-supervised Fusion Transformer for Salient Object Detection | Heqin Zhu, et al. | [Paper](https://arxiv.org/abs/2203.06429)/Code
+
+
+
+
 #### 2022
 
 | **Pub.** | **Title**                                                    | **Author**                                                   | **Links**                                                    |
 | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
+CVPR | Pyramid Grafting Network for One-Stage High Resolution Saliency Detection | Chenxi Xie, Jia Li, et al. | [Paper](https://arxiv.org/abs/2204.05041)/[Code](https://github.com/iCVTEAM/PGNet)
+AAAI | Unsupervised Domain Adaptive Salient Object Detection Through Uncertainty-Aware Pseudo-Label Learning | Pengxiang Yan, Liang Lin, et al. | [Paper](https://arxiv.org/abs/2202.13170)/[Code](https://github.com/Kinpzz/UDASOD-UPL)
 AAAI | Weakly-Supervised Salient Object Detection Using Point Supervison | Shuyong Gao, Wei Zhang, et al. | [Paper](https://arxiv.org/pdf/2203.11652.pdf)/[Code](https://github.com/shuyonggao/PSOD)
 
 
