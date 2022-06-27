@@ -2,7 +2,7 @@
 
 A curated list of awesome resources for salient object detection (SOD), including RGB-D SOD, and part image SOD. We will keep updating it.
 
-:heavy_exclamation_mark:Updated 2022-04.
+:heavy_exclamation_mark:Updated 2022-06-27.
 
 
 
