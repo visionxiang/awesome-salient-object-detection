@@ -34,6 +34,7 @@ A curated list of awesome resources for salient object detection (SOD), includin
 
 | **Year** | **Pub.** | **Title**                                                    | **Author**                                                   | **Links**                                                    |
 | :------: | :------- | :----------------------------------------------------------- | :----------------------------------------------------------- | ------------------------------------------------------------ |
+|   2022  |  arXiv | TANet: Transformer-based Asymmetric Network for RGB-D Salient Object Detection | Chang Liu, Gang Yang, et al. | [Paper](https://arxiv.org/abs/2207.01172)/[Code](https://github.com/lc012463/TANet)
 |   2022  | arXiv | GroupTransNet: Group Transformer Network for RGB-D Salient Object Detection | Xian Feng, Jinshao Zhu, et al. | [Paper](https://arxiv.org/abs/2203.10785)/Cpde
 |   2022  | arXiv | Dual Swin-Transformer based Mutual Interactive Network for RGB-D Salient Object Detection | Chao Zeng, Sam Kwong | [Paper](https://arxiv.org/abs/2206.03105)/Code
 |   2021  | arXiv12 | TransCMD: Cross-Modal Decoder Equipped with Transformer for RGB-D Salient Object Detection | Youwei Pang, Lihe Zhang, et al. | [Paper](https://arxiv.org/abs/2112.02363)/Code
@@ -53,6 +54,7 @@ A curated list of awesome resources for salient object detection (SOD), includin
 
 | **No.** | **Pub.** | **Title**                                                    | **Author**                                                   | **Links**                                                    |
 | :-----: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
+|   03   |  TMM  | C2DFNet: Criss-Cross Dynamic Filter Network for RGB-D Salient Object Detection | Miao Zhang, et al. | [Paper](https://ieeexplore.ieee.org/abstract/document/9813422)/[Code](https://github.com/OIPLab-DUT/C2DFNet)
 |   02   |  TIP  | Boosting RGB-D Saliency Detection by Leveraging Unlabeled RGB Images | Xiaoqiang Wang, et al. | [Paper](https://arxiv.org/abs/2201.00100)/Code
 |   01   | AAAI  | Self-Supervised Representation Learning for RGB-D Salient Object Detection | Xiaoqi Zhao, Huchuan Lu, et al.                              | [Paper](https://arxiv.org/pdf/2101.12482.pdf)/[Code](https://github.com/Xiaoqi-Zhao-DLUT/SSLSOD) |
 
