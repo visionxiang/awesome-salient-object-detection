@@ -53,7 +53,8 @@ A curated list of awesome resources for salient object detection (SOD), focusing
 
 | **Year** | **Pub.** | **Title** |  **Links**                                       |
 | :-----: | :------: | :----------------------------------------------------------- |   :----------------------------------------------------------- |
-|   2022   |  ACMMM | Depth-inspired Label Mining for Unsupervised RGB-D Salient Object Detection <br> <sub><sup>* *</sup></sub> | Paper/[Code](https://github.com/youngtboy/DLM)
+|   2022   |  ACMMM | Depth-inspired Label Mining for Unsupervised RGB-D Salient Object Detection <br> <sub><sup>* 
+Teng Yang, Yue Wang, Lu Zhang, Jinqing Qi, Huchuan Lu*</sup></sub> | [Paper](https://dl.acm.org/doi/10.1145/3503161.3548037)/[Code](https://github.com/youngtboy/DLM)
 |   2022   |  ECCV | MVSalNet:Multi-View Augmentation for RGB-D Salient Object Detection  <br> <sub><sup>*JiaYuan Zhou, Lijun Wang, Huchuan Lu, Kaining Huang, Xinchu Shi, Bocong Liu*</sup></sub> | Paper/[Code](https://github.com/Heart-eartH/MVSalNet) |
 |   2022   |  ECCV | SPSN: Superpixel Prototype Sampling Network for RGB-D Salient Object Detection  <br> <sub><sup>*Minhyeok Lee, Chaewon Park, Suhwan Cho, Sangyoun Lee*</sup></sub> | [Paper](https://arxiv.org/abs/2207.07898)/[Code](https://github.com/Hydragon516/SPSN)
 |   2022   |  AAAI | Self-Supervised Representation Learning for RGB-D Salient Object Detection  <br> <sub><sup>*Xiaoqi Zhao, Huchuan Lu, et al.*</sup></sub>     | [Paper](https://arxiv.org/pdf/2101.12482.pdf)/[Code](https://github.com/Xiaoqi-Zhao-DLUT/SSLSOD) |
