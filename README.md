@@ -59,6 +59,7 @@ A curated list of awesome resources for salient object detection (SOD), focusing
 |   2022   |  AAAI | Self-Supervised Representation Learning for RGB-D Salient Object Detection  <br> <sub><sup>*Xiaoqi Zhao, Huchuan Lu, et al.*</sup></sub>     | [Paper](https://arxiv.org/pdf/2101.12482.pdf)/[Code](https://github.com/Xiaoqi-Zhao-DLUT/SSLSOD) |
 |   2022   | ICLR | Promoting Saliency From Depth: Deep Unsupervised RGB-D Saliency Detection <br> <sub><sup>*Wei Ji, Jingjing Li, Qi Bi, Chuan Guo, Jie Liu, Li Cheng*</sup></sub>  | [Paper](https://openreview.net/pdf?id=BZnnMbt0pW)/[Code](https://github.com/jiwei0921/DSU)
 |      ---     |    ---      |    ---       |     ---      |
+|   2022   |  PAMI | Learning Selective Mutual Attention and Contrast for RGB-D Saliency Detection <br> <sub><sup>*Nian Liu, Ni Zhang, Ling Shao, Junwei Han*</sup></sub> | [Paper](https://arxiv.org/abs/2010.05537)/[Code](https://github.com/nnizhang/SMAC)
 |   2022   |  TMM  | C2DFNet: Criss-Cross Dynamic Filter Network for RGB-D Salient Object Detection <br> <sub><sup>*Miao Zhang, et al.*</sup></sub> | [Paper](https://ieeexplore.ieee.org/abstract/document/9813422)/[Code](https://github.com/OIPLab-DUT/C2DFNet)
 |   2022   |  TIP  | Boosting RGB-D Saliency Detection by Leveraging Unlabeled RGB Images  <br> <sub><sup>*Xiaoqiang Wang, et al.*</sup></sub> | [Paper](https://arxiv.org/abs/2201.00100)/Code
 
