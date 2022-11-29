@@ -12,7 +12,8 @@ A curated list of awesome resources for salient object detection (SOD), focusing
 
 ## Content:
 - [Overview](#Overview)
-- [RGB-D SOD](#RGBD-SOD)
+- [RGB-D SOD](#RGB-D-SOD)
+- [RGB-T SOD](#RGB-T-SOD)
 - [Image SOD](#Image-SOD)
 - [Appendix](#Appendix)
 
@@ -28,7 +29,7 @@ A curated list of awesome resources for salient object detection (SOD), focusing
 
 
 
-## RGBD SOD
+## RGB-D SOD
 
 ### Preprint
 
@@ -59,6 +60,7 @@ A curated list of awesome resources for salient object detection (SOD), focusing
 |   2022   |  AAAI | Self-Supervised Representation Learning for RGB-D Salient Object Detection  <br> <sub><sup>*Xiaoqi Zhao, Huchuan Lu, et al.*</sup></sub>     | [Paper](https://arxiv.org/pdf/2101.12482.pdf)/[Code](https://github.com/Xiaoqi-Zhao-DLUT/SSLSOD) |
 |   2022   | ICLR | Promoting Saliency From Depth: Deep Unsupervised RGB-D Saliency Detection <br> <sub><sup>*Wei Ji, Jingjing Li, Qi Bi, Chuan Guo, Jie Liu, Li Cheng*</sup></sub>  | [Paper](https://openreview.net/pdf?id=BZnnMbt0pW)/[Code](https://github.com/jiwei0921/DSU)
 |      ---     |    ---      |    ---       |     ---      |
+|   2022   | IJCV  | Learnable Depth-Sensitive Attention for Deep RGB-D Saliency Detection with Multi-modal Fusion Architecture Search <br> <sub><sup>*Peng Sun, Wenhu Zhang, Songyuan Li, Yilin Guo, Congli Song & Xi Li*</sup></sub>  | [Paper](https://link.springer.com/article/10.1007/s11263-022-01646-0?utm_source=toc&utm_medium=email&utm_campaign=toc_11263_130_11&utm_content=etoc_springer_20221001)/Code
 |   2022   |  PAMI | Learning Selective Mutual Attention and Contrast for RGB-D Saliency Detection <br> <sub><sup>*Nian Liu, Ni Zhang, Ling Shao, Junwei Han*</sup></sub> | [Paper](https://arxiv.org/abs/2010.05537)/[Code](https://github.com/nnizhang/SMAC)
 |   2022   |  TMM  | C2DFNet: Criss-Cross Dynamic Filter Network for RGB-D Salient Object Detection <br> <sub><sup>*Miao Zhang, et al.*</sup></sub> | [Paper](https://ieeexplore.ieee.org/abstract/document/9813422)/[Code](https://github.com/OIPLab-DUT/C2DFNet)
 |   2022   |  TIP  | Boosting RGB-D Saliency Detection by Leveraging Unlabeled RGB Images  <br> <sub><sup>*Xiaoqiang Wang, et al.*</sup></sub> | [Paper](https://arxiv.org/abs/2201.00100)/Code
@@ -200,6 +202,15 @@ A curated list of awesome resources for salient object detection (SOD), focusing
 
 
 
+## RGB-T SOD
+
+| **Year** | **Pub.** | **Title**                                                    | **Links**      |
+| :------: | :------: | :----------------------------------------------------------- |  :-------|
+| 2022 | KBS | Asymmetric cross-modal activation network for RGB-T salient object detection  <br><sub><sup>*Chang Xu, Qingwu Li, Qingkai Zhou, Xiongbiao Jiang, Dabing Yu, Yaqin Zhou*</sup></sub> | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122011406)/[Code](https://github.com/xanxuso/ACMANet)
+| 2022 | TMM | Does Thermal really always matter for RGB-T salient object detection <br><sub><sup>*Runmin Cong, Kepu Zhang, Chen Zhang, Feng Zheng, Yao Zhao, Qingming Huang, Sam Kwong*</sup></sub>  | [Paper](https://arxiv.org/pdf/2210.04266.pdf)/[Code](https://rmcong.github.io/proj_TNet.html)
+| 2022 | TCSVT | Cross-Collaborative Fusion-Encoder Network for Robust RGB-Thermal Salient Object Detection  <br><sub><sup>*Guibiao Liao, Wei Gao, Ge Li, Junle Wang, Sam Kwong*</sup></sub>  | [Paper](https://ieeexplore.ieee.org/document/9801871?source=tocalert&dld=Z21haWwuY29t)/[Code](https://git.openi.org.cn/OpenVision/CCFENet)
+| 2022 | TIM | Real-time One-stream Semantic-guided Refinement Network for RGB-Thermal Salient Object Detection  <br><sub><sup>*Fushuo Huo, Xuegui Zhu, Qian Zhang, Ziming Liu, Wenchao Yu*</sup></sub>  | [Paper](https://ieeexplore.ieee.org/abstract/document/9803225)/[Code](https://github.com/huofushuo/OSRNet)
+| 2022 | TIP | Weakly Alignment-free RGBT Salient Object Detection with Deep Correlation Network   <br><sub><sup>*Zhengzheng Tu, Zhun Li, Chenglong Li, Jin Tang*</sup></sub>  | [Paper](https://ieeexplore.ieee.org/abstract/document/9779787)/[Code](https://github.com/lz118/Deep-Correlation-Network)
 
 
 
@@ -318,4 +329,5 @@ AAAI | Weakly-Supervised Salient Object Detection Using Point Supervison | Shuyo
 
 - [SOD CNNs-based Read List](https://github.com/jiwei0921/SOD-CNNs-based-code-summary-)
 - [RGB-D SOD Survey](https://github.com/taozh2017/RGBD-SODsurvey)
+- [RGB-T Salient Object Detection and Semantic segmentation](https://github.com/zyrant/Summary-of-RGB-T-Salient-Object-Detection-and-Semantic-segmentation)
 
