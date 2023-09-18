@@ -49,13 +49,21 @@ A curated list of awesome resources for salient object detection (SOD), focusing
 
 
 
+### 2023
+
+| **Year** | **Pub.** | **Title** |  **Links**                                       |
+| :-----: | :------: | :----------------------------------------------------------- |   :----------------------------------------------------------- |
+|   2023   |  IJCV | Delving into Calibrated Depth for Accurate RGB-D Salient Object Detection   <br> <sub><sup>*Jingjing Li, Wei Ji, Miao Zhang, Yongri Piao, Huchuan Lu, Li Cheng*</sup></sub> | Paper/Code
+|   2023   |  TMM | S3Net: Self-Supervised Self-Ensembling Network for Semi-Supervised RGB-D Salient Object Detection  <br> <sub><sup>*Lei Zhu; Xiaoqiang Wang; Ping Li; Xin Yang; Qing Zhang; Weiming Wang; Carola-Bibiane Schönlieb; C. L. Philip Chen*</sup></sub> | Paper/Code
+
+
 
 ### 2022 
 
 | **Year** | **Pub.** | **Title** |  **Links**                                       |
 | :-----: | :------: | :----------------------------------------------------------- |   :----------------------------------------------------------- |
 |   2022   |  MM | Depth-inspired Label Mining for Unsupervised RGB-D Salient Object Detection <br> <sub><sup>*Teng Yang, Yue Wang, Lu Zhang, Jinqing Qi, Huchuan Lu*</sup></sub> | [Paper](https://dl.acm.org/doi/10.1145/3503161.3548037)/[Code](https://github.com/youngtboy/DLM)
-|   2022   |  ECCV | MVSalNet:Multi-View Augmentation for RGB-D Salient Object Detection  <br> <sub><sup>*JiaYuan Zhou, Lijun Wang, Huchuan Lu, Kaining Huang, Xinchu Shi, Bocong Liu*</sup></sub> | Paper/[Code](https://github.com/Heart-eartH/MVSalNet) |
+|   2022   |  ECCV | MVSalNet: Multi-View Augmentation for RGB-D Salient Object Detection  <br> <sub><sup>*JiaYuan Zhou, Lijun Wang, Huchuan Lu, Kaining Huang, Xinchu Shi, Bocong Liu*</sup></sub> | Paper/[Code](https://github.com/Heart-eartH/MVSalNet) |
 |   2022   |  ECCV | SPSN: Superpixel Prototype Sampling Network for RGB-D Salient Object Detection  <br> <sub><sup>*Minhyeok Lee, Chaewon Park, Suhwan Cho, Sangyoun Lee*</sup></sub> | [Paper](https://arxiv.org/abs/2207.07898)/[Code](https://github.com/Hydragon516/SPSN)
 |   2022   |  AAAI | Self-Supervised Representation Learning for RGB-D Salient Object Detection  <br> <sub><sup>*Xiaoqi Zhao, Huchuan Lu, et al.*</sup></sub>     | [Paper](https://arxiv.org/pdf/2101.12482.pdf)/[Code](https://github.com/Xiaoqi-Zhao-DLUT/SSLSOD) |
 |   2022   | ICLR | Promoting Saliency From Depth: Deep Unsupervised RGB-D Saliency Detection <br> <sub><sup>*Wei Ji, Jingjing Li, Qi Bi, Chuan Guo, Jie Liu, Li Cheng*</sup></sub>  | [Paper](https://openreview.net/pdf?id=BZnnMbt0pW)/[Code](https://github.com/jiwei0921/DSU)
@@ -206,6 +214,8 @@ A curated list of awesome resources for salient object detection (SOD), focusing
 
 | **Year** | **Pub.** | **Title**                                                    | **Links**      |
 | :------: | :------: | :----------------------------------------------------------- |  :-------|
+| 2023 | TCSVT | Cross-Modality Double Bidirectional Interaction and Fusion Network for RGB-T Salient Object Detection  <br><sub><sup>*Zhengxuan Xie; Feng Shao; Gang Chen; Hangwei Chen; Qiuping Jiang; Xiangchao Meng; Yo-Sung Ho*</sup></sub> | Paper/Code
+| 2023 | TCSVT | Multiple Graph Affinity Interactive Network and a Variable Illumination Dataset for RGBT Image Salient Object Detection  <br><sub><sup>*Kechen Song; Liming Huang; Aojun Gong; Yunhui Yan*</sup></sub> | Paper/Code
 | 2022 | KBS | Asymmetric cross-modal activation network for RGB-T salient object detection  <br><sub><sup>*Chang Xu, Qingwu Li, Qingkai Zhou, Xiongbiao Jiang, Dabing Yu, Yaqin Zhou*</sup></sub> | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122011406)/[Code](https://github.com/xanxuso/ACMANet)
 | 2022 | TMM | Does Thermal really always matter for RGB-T salient object detection <br><sub><sup>*Runmin Cong, Kepu Zhang, Chen Zhang, Feng Zheng, Yao Zhao, Qingming Huang, Sam Kwong*</sup></sub>  | [Paper](https://arxiv.org/pdf/2210.04266.pdf)/[Code](https://rmcong.github.io/proj_TNet.html)
 | 2022 | TCSVT | Cross-Collaborative Fusion-Encoder Network for Robust RGB-Thermal Salient Object Detection  <br><sub><sup>*Guibiao Liao, Wei Gao, Ge Li, Junle Wang, Sam Kwong*</sup></sub>  | [Paper](https://ieeexplore.ieee.org/document/9801871?source=tocalert&dld=Z21haWwuY29t)/[Code](https://git.openi.org.cn/OpenVision/CCFENet)
