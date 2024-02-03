@@ -215,6 +215,7 @@ A curated list of awesome resources for salient object detection (SOD), focusing
 
 | **Year** | **Pub.** | **Title**                                                    | **Links**      |
 | :------: | :------: | :----------------------------------------------------------- |  :-------|
+| 2024 |   PR  | Frequency-aware feature aggregation network with dual-task consistency for RGB-T salient object detection     <br><sub><sup>*Heng Zhou, Chunna Tian, Zhenxi Zhang, Chengyang Li, Yongqiang Xie, Zhongbo Li*</sup></sub> | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320323007409?dgcid=raven_sd_via_email)/Code
 | 2023 | TCSVT | Cross-Modality Double Bidirectional Interaction and Fusion Network for RGB-T Salient Object Detection  <br><sub><sup>*Zhengxuan Xie; Feng Shao; Gang Chen; Hangwei Chen; Qiuping Jiang; Xiangchao Meng; Yo-Sung Ho*</sup></sub> | Paper/Code
 | 2023 | TCSVT | Multiple Graph Affinity Interactive Network and a Variable Illumination Dataset for RGBT Image Salient Object Detection  <br><sub><sup>*Kechen Song; Liming Huang; Aojun Gong; Yunhui Yan*</sup></sub> | Paper/Code
 | 2022 | KBS | Asymmetric cross-modal activation network for RGB-T salient object detection  <br><sub><sup>*Chang Xu, Qingwu Li, Qingkai Zhou, Xiongbiao Jiang, Dabing Yu, Yaqin Zhou*</sup></sub> | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122011406)/[Code](https://github.com/xanxuso/ACMANet)
