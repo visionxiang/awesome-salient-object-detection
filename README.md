@@ -54,6 +54,7 @@ A curated list of awesome resources for salient object detection (SOD), focusing
 | **Year** | **Pub.** | **Title** |  **Links**                                       |
 | :-----: | :------: | :----------------------------------------------------------- |   :----------------------------------------------------------- |
 |   2024   |  PAMI | Robust Perception and Precise Segmentation for Scribble-Supervised RGB-D Saliency Detection   <br> <sub><sup>*Long Li, Junwei Han, Nian Liu, Salman Khan, Hisham Cholakkal, Rao Muhammad Anwer, Fahad Shahbaz Khan*</sup></sub> | [Paper](https://ieeexplore.ieee.org/document/10288361)/Code
+|   2024   |  TCSVT | Mutual Information Regularization for Weakly-Supervised RGB-D Salient Object Detection   <br> <sub><sup>*Aixuan Li; Yuxin Mao; Jing Zhang; Yuchao Dai*</sup></sub> | [Paper](https://ieeexplore.ieee.org/document/10148985)/[Code](https://npucvr.github.io/MIRV/)
 
 
 ### 2023
@@ -61,7 +62,10 @@ A curated list of awesome resources for salient object detection (SOD), focusing
 | **Year** | **Pub.** | **Title** |  **Links**                                       |
 | :-----: | :------: | :----------------------------------------------------------- |   :----------------------------------------------------------- |
 |   2023   |  IJCV | Delving into Calibrated Depth for Accurate RGB-D Salient Object Detection   <br> <sub><sup>*Jingjing Li, Wei Ji, Miao Zhang, Yongri Piao, Huchuan Lu, Li Cheng*</sup></sub> | [Paper](https://link.springer.com/article/10.1007/s11263-022-01734-1)/Code
+|   2023   |  TMM | CATNet: A Cascaded and Aggregated Transformer Network for RGB-D Salient Object Detection    <br> <sub><sup>*Fuming Sun; Peng Ren; Bowen Yin; Fasheng Wang; Haojie Li*</sup></sub> | [Paper](https://ieeexplore.ieee.org/document/10179145)/Code
+|   2023   |  TMM | Transformer Fusion and Pixel-Level Contrastive Learning for RGB-D Salient Object Detection   <br> <sub><sup>*Jiesheng Wu; Fangwei Hao; Weiyun Liang; Jing Xu*</sup></sub> | [Paper](https://ieeexplore.ieee.org/document/10122979)/Code
 |   2023   |  TMM | S3Net: Self-Supervised Self-Ensembling Network for Semi-Supervised RGB-D Salient Object Detection  <br> <sub><sup>*Lei Zhu; Xiaoqiang Wang; Ping Li; Xin Yang; Qing Zhang; Weiming Wang; Carola-Bibiane Schönlieb; C. L. Philip Chen*</sup></sub> | [Paper](https://ieeexplore.ieee.org/abstract/document/9623466)/Code
+
 
 
 
