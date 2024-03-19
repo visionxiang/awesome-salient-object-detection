@@ -35,17 +35,10 @@ A curated list of awesome resources for salient object detection (SOD), focusing
 
 | **Year** | **Pub.** | **Title**              | **Links**                                                    |
 | :------: | :------- | :----------------------------------------------------------- | :------------------------------------------------------------ |
-|   2022  |  arXiv | TANet: Transformer-based Asymmetric Network for RGB-D Salient Object Detection <br> <sub><sup>*Chang Liu, Gang Yang, et al.*</sup></sub>  | [Paper](https://arxiv.org/abs/2207.01172)/[Code](https://github.com/lc012463/TANet)
 |   2022  | arXiv | GroupTransNet: Group Transformer Network for RGB-D Salient Object Detection <br> <sub><sup>*Xian Feng, Jinshao Zhu, et al.*</sup></sub>   | [Paper](https://arxiv.org/abs/2203.10785)/Cpde
-|   2022  | arXiv | Dual Swin-Transformer based Mutual Interactive Network for RGB-D Salient Object Detection <br> <sub><sup>*Chao Zeng, Sam Kwong*</sup></sub> | [Paper](https://arxiv.org/abs/2206.03105)/Code
 |   2021  | arXiv12 | TransCMD: Cross-Modal Decoder Equipped with Transformer for RGB-D Salient Object Detection <br> <sub><sup>*Youwei Pang, Lihe Zhang, et al.*</sup></sub>  | [Paper](https://arxiv.org/abs/2112.02363)/Code
-|   2021   | arXiv12  | MutualFormer: Multi-Modality Representation Learning via Mutual Transformer <br> <sub><sup>*Xixi Wang, Bo Jiang, et al.*</sup></sub>   | [Paper](https://arxiv.org/abs/2112.01177)/Code
-|   2021   | arXiv12  | Transformer-based Network for RGB-D Saliency Detection <br> <sub><sup>*Yue Wang, Huchuan Lu, et al.*</sup></sub>  | [Paper](https://arxiv.org/abs/2112.00582)/Code
-|   2021   | arXiv09  | ACFNet: Adaptively-Cooperative Fusion Network for RGB-D Salient Object Detection <br> <sub><sup>*Jinchao Zhu, et al.*</sup></sub>    | [arXiv](https://arxiv.org/pdf/2109.04627.pdf)/Code           |
-|   2021   | arXiv06  | Dynamic Knowledge Distillation with A Single Stream Structure for RGB-D Salient Object Detection <br> <sub><sup>*Guangyu Ren, Tania Stathaki*</sup></sub>      | [Paper](https://arxiv.org/pdf/2106.09517.pdf)/Code           |
-|   2021   | arXiv04  | Middle-level Fusion for Lightweight RGB-D Salient Object Detection <br> <sub><sup>*N. Huang, Qiang Jiao, Qiang Zhang, Jungong Han*</sup></sub>          | [Paper](https://arxiv.org/pdf/2104.11543.pdf)/Code           |
-|   2020   | arXiv12  | A Unified Structure for Efficient RGB and RGB-D Salient Object Detection <br> <sub><sup>*Peng Peng and Yong-Jie Li*</sup></sub>                       | [arXiv](https://arxiv.org/pdf/2012.00437.pdf)/Code           |
-|   2020   | arXiv08  | <span style="white-space:nowrap;">Knowing Depth Quality In Advance: A Depth Quality Assessment Method For RGB-D Salient Object Detection&emsp; </span>   <br> <sub><sup>*Xuehao Wang, et al.*</sup></sub>    | [Paper](https://arxiv.org/abs/2008.04157)/[Code](https://github.com/XueHaoWang-Beijing/DQSF?utm_source=catalyzex.com) |
+
+
 
 
 
@@ -53,6 +46,7 @@ A curated list of awesome resources for salient object detection (SOD), focusing
 
 | **Year** | **Pub.** | **Title** |  **Links**                                       |
 | :-----: | :------: | :----------------------------------------------------------- |   :----------------------------------------------------------- |
+｜  2024   ｜ TNNLS | EM-Trans: Edge-Aware Multimodal Transformer for RGB-D Salient Object Detection   <br> <sub><sup>*Geng Chen; Qingyue Wang; Bo Dong; Ruitao Ma; Nian Liu; Huazhu Fu; Yong Xia*</sup></sub> | [Paper](https://ieeexplore.ieee.org/abstract/document/10433541)/Code
 |   2024   |  PAMI | Robust Perception and Precise Segmentation for Scribble-Supervised RGB-D Saliency Detection   <br> <sub><sup>*Long Li, Junwei Han, Nian Liu, Salman Khan, Hisham Cholakkal, Rao Muhammad Anwer, Fahad Shahbaz Khan*</sup></sub> | [Paper](https://ieeexplore.ieee.org/document/10288361)/Code
 |   2024   |  TCSVT | Mutual Information Regularization for Weakly-Supervised RGB-D Salient Object Detection   <br> <sub><sup>*Aixuan Li; Yuxin Mao; Jing Zhang; Yuchao Dai*</sup></sub> | [Paper](https://ieeexplore.ieee.org/document/10148985)/[Code](https://npucvr.github.io/MIRV/)
 
@@ -65,7 +59,7 @@ A curated list of awesome resources for salient object detection (SOD), focusing
 |   2023   |  TMM | CATNet: A Cascaded and Aggregated Transformer Network for RGB-D Salient Object Detection    <br> <sub><sup>*Fuming Sun; Peng Ren; Bowen Yin; Fasheng Wang; Haojie Li*</sup></sub> | [Paper](https://ieeexplore.ieee.org/document/10179145)/Code
 |   2023   |  TMM | Transformer Fusion and Pixel-Level Contrastive Learning for RGB-D Salient Object Detection   <br> <sub><sup>*Jiesheng Wu; Fangwei Hao; Weiyun Liang; Jing Xu*</sup></sub> | [Paper](https://ieeexplore.ieee.org/document/10122979)/Code
 |   2023   |  TMM | S3Net: Self-Supervised Self-Ensembling Network for Semi-Supervised RGB-D Salient Object Detection  <br> <sub><sup>*Lei Zhu; Xiaoqiang Wang; Ping Li; Xin Yang; Qing Zhang; Weiming Wang; Carola-Bibiane Schönlieb; C. L. Philip Chen*</sup></sub> | [Paper](https://ieeexplore.ieee.org/abstract/document/9623466)/Code
-
+|   2023  | Neurocom | Dual Swin-Transformer based Mutual Interactive Network for RGB-D Salient Object Detection <br> <sub><sup>*Chao Zeng, Sam Kwong*</sup></sub> | [Paper](https://arxiv.org/abs/2206.03105)/Code
 
 
 
@@ -83,7 +77,7 @@ A curated list of awesome resources for salient object detection (SOD), focusing
 |   2022   |  PAMI | Learning Selective Mutual Attention and Contrast for RGB-D Saliency Detection <br> <sub><sup>*Nian Liu, Ni Zhang, Ling Shao, Junwei Han*</sup></sub> | [Paper](https://arxiv.org/abs/2010.05537)/[Code](https://github.com/nnizhang/SMAC)
 |   2022   |  TMM  | C2DFNet: Criss-Cross Dynamic Filter Network for RGB-D Salient Object Detection <br> <sub><sup>*Miao Zhang, et al.*</sup></sub> | [Paper](https://ieeexplore.ieee.org/abstract/document/9813422)/[Code](https://github.com/OIPLab-DUT/C2DFNet)
 |   2022   |  TIP  | Boosting RGB-D Saliency Detection by Leveraging Unlabeled RGB Images  <br> <sub><sup>*Xiaoqiang Wang, et al.*</sup></sub> | [Paper](https://arxiv.org/abs/2201.00100)/Code
-
+|   2022   |  TIP  | Middle-level Fusion for Lightweight RGB-D Salient Object Detection <br> <sub><sup>*N. Huang, Qiang Jiao, Qiang Zhang, Jungong Han*</sup></sub>          | [Paper](https://arxiv.org/pdf/2104.11543.pdf)/Code           |
 
 
 
