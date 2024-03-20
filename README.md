@@ -35,7 +35,8 @@ A curated list of awesome resources for salient object detection (SOD), focusing
 
 | **Year** | **Pub.** | **Title**              | **Links**                                                    |
 | :------: | :------- | :----------------------------------------------------------- | :------------------------------------------------------------ |
-|   2022  | arXiv | GroupTransNet: Group Transformer Network for RGB-D Salient Object Detection <br> <sub><sup>*Xian Feng, Jinshao Zhu, et al.*</sup></sub>   | [Paper](https://arxiv.org/abs/2203.10785)/Cpde
+|   2023  | arXiv | All in One: RGB, RGB-D, and RGB-T Salient Object Detection   <br> <sub><sup>*Xingzhao Jia, Zhongqiu Zhao, Changlei Dongye, Zhao Zhang*</sup></sub>   | [Paper](https://arxiv.org/abs/2311.14746)/Code
+|   2022  | arXiv | GroupTransNet: Group Transformer Network for RGB-D Salient Object Detection <br> <sub><sup>*Xian Feng, Jinshao Zhu, et al.*</sup></sub>   | [Paper](https://arxiv.org/abs/2203.10785)/Code
 |   2021  | arXiv12 | TransCMD: Cross-Modal Decoder Equipped with Transformer for RGB-D Salient Object Detection <br> <sub><sup>*Youwei Pang, Lihe Zhang, et al.*</sup></sub>  | [Paper](https://arxiv.org/abs/2112.02363)/Code
 
 
