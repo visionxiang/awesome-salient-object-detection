@@ -246,7 +246,7 @@ A curated list of awesome resources for salient object detection (SOD), focusing
 
 | **Pub.** | **Title**                                                    | **Author**                                                   | **Links**                                                    |
 | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
-ICML | Size-invariance Matters: Rethinking Metrics and Losses for Imbalanced Multi-object Salient Object Detection | Feiran, Li, et al. | [Paper](https://arxiv.org/abs/2204.05041)/[Code](https://github.com/iCVTEAM/PGNet)
+ICML | Size-invariance Matters: Rethinking Metrics and Losses for Imbalanced Multi-object Salient Object Detection | Feiran Li, Qianqian Xu, et al. | [Paper](https://arxiv.org/abs/2405.09782)/[Code](https://github.com/Ferry-Li/SI-SOD)
 
 
 #### 2022
