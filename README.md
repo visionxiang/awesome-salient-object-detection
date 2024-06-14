@@ -247,10 +247,7 @@ A curated list of awesome resources for salient object detection (SOD), focusing
 | **Pub.** | **Title**                                                    | **Author**                                                   | **Links**                                                    |
 | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
 CVPR | Pyramid Grafting Network for One-Stage High Resolution Saliency Detection | Chenxi Xie, Jia Li, et al. | [Paper](https://arxiv.org/abs/2204.05041)/[Code](https://github.com/iCVTEAM/PGNet)
-AAAI | Unsupervised Domain Adaptive Salient Object Detection Through Uncertainty-Aware Pseudo-Label Learning | Pengxiang Yan, Liang Lin, et al. | [Paper](https://arxiv.org/abs/2202.13170)/[Code](https://github.com/Kinpzz/UDASOD-UPL)
-AAAI | Weakly-Supervised Salient Object Detection Using Point Supervison | Shuyong Gao, Wei Zhang, et al. | [Paper](https://arxiv.org/pdf/2203.11652.pdf)/[Code](https://github.com/shuyonggao/PSOD)
 
-https://people.ucas.ac.cn/~qmhuang)
 
 #### 2022
 
