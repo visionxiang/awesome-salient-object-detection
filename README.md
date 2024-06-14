@@ -246,7 +246,7 @@ A curated list of awesome resources for salient object detection (SOD), focusing
 
 | **Pub.** | **Title**                                                    | **Author**                                                   | **Links**                                                    |
 | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
-CVPR | Pyramid Grafting Network for One-Stage High Resolution Saliency Detection | Chenxi Xie, Jia Li, et al. | [Paper](https://arxiv.org/abs/2204.05041)/[Code](https://github.com/iCVTEAM/PGNet)
+ICML | Size-invariance Matters: Rethinking Metrics and Losses for Imbalanced Multi-object Salient Object Detection | Feiran, Li, et al. | [Paper](https://arxiv.org/abs/2204.05041)/[Code](https://github.com/iCVTEAM/PGNet)
 
 
 #### 2022
