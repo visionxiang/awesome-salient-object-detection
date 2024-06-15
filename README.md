@@ -86,7 +86,7 @@ A curated list of awesome resources for salient object detection (SOD), focusing
 
 | **Year** | **Pub.** | **Title**   | **Links**                                      |
 | :-----: | :------: | :----------------------------------------------------------- | :----------------------------------------------------------- |
-|   2021    | NeurIPS  | Joint Semantic Mining for Weakly Supervised RGB-D Salient Object Detection <br> <sub><sup>*Jingjing Li1, Wei Ji, Qi Bi, Cheng Yan, Miao Zhang, Yongri Piao, Huchuan Lu, Li Cheng*</sup></sub> | [Paper](https://proceedings.neurips.cc/paper/2021/file/642e92efb79421734881b53e1e1b18b6-Paper.pdf)/[Code](https://github.com/jiwei0921/JSM) | 
+|   2021    | NeurIPS  | Joint Semantic Mining for Weakly Supervised RGB-D Salient Object Detection <br> <sub><sup>*Jingjing Li1, Wei Ji, Qi Bi, Cheng Yan, Miao Zhang, Yongri Piao, Huchuan Lu, Li Cheng*</sup></sub> | [Paper](https://proceedings.neurips.cc/paper/2021/file/642e92efb79421734881b53e1e1b18b6-Paper.pdf)/[Code](https://github.com/jiwei0921/JSM) |
 |   2021    |   ICCV   | Visual Saliency Transformer       <br> <sub><sup>*Nian Liu, Junwei Han, et al.*</sup></sub>  | [Paper](https://arxiv.org/pdf/2104.12099.pdf)/[Code](https://github.com/nnizhang/VST#visual-saliency-transformer-vst) |
 |   2021    |   ICCV   | Specificity-preserving RGB-D Saliency Detection   <br> <sub><sup>*Tao Zhou, et al.*</sup></sub>  | [Paper](https://arxiv.org/abs/2108.08162)/[Code](https://github.com/taozh2017/SPNet) |
 |   2021    |   ICCV   | RGB-D Saliency Detection via Cascaded Mutual Information Minimization <br> <sub><sup>*Jing Zhang, Deng-Ping Fan, et al.*</sup></sub>    | [Paper](https://arxiv-download.xixiaoyao.cn/pdf/2109.07246.pdf)/[Code](https://github.com/JingZhang617/cascaded_rgbd_sod) |
@@ -204,7 +204,7 @@ A curated list of awesome resources for salient object detection (SOD), focusing
 |   2021   |   ICCV   | **Contrastive Multimodal Fusion with TupleInfoNCE**          <br> <sub><sup>*Yunze Liu, Li Yi, et al.*</sup></sub>                                     | [Paper](https://arxiv.org/pdf/2107.02575.pdf)/Code           |
 |   2019   |   ICCV   | RGB-Infrared Cross-Modality Person Re-Identification via Joint Pixel and Feature Alignment <br> <sub><sup>*Guan'an Wang, et al.*</sup></sub>              | Paper/[Code](https://github.com/wangguanan/AlignGAN)         |
 | 2021 | CVPR | Look Closer to Segment Better: Boundary Patch Refinement for Instance Segmentation <br> <sub><sup>*Chufeng Tang, Xiaolin Hu, et al.*</sup></sub> | [Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Tang_Look_Closer_To_Segment_Better_Boundary_Patch_Refinement_for_Instance_CVPR_2021_paper.html)/[Code](https://github.com/tinyalpha/BPR) |
-| 2021 | CVPR | Boundary IoU: Improving Object-Centric Image Segmentation Evaluation <br> <sub><sup>*Bowen Cheng, Ross Girshick, Piotr Dollár, et al.*</sup></sub> | [Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Cheng_Boundary_IoU_Improving_Object-Centric_Image_Segmentation_Evaluation_CVPR_2021_paper.html)/[Code](https://bowenc0221.github.io/boundary-iou/) | 
+| 2021 | CVPR | Boundary IoU: Improving Object-Centric Image Segmentation Evaluation <br> <sub><sup>*Bowen Cheng, Ross Girshick, Piotr Dollár, et al.*</sup></sub> | [Paper](https://openaccess.thecvf.com/content/CVPR2021/html/Cheng_Boundary_IoU_Improving_Object-Centric_Image_Segmentation_Evaluation_CVPR_2021_paper.html)/[Code](https://bowenc0221.github.io/boundary-iou/) |
 | 2021 | AAAI | Active Boundary Loss for Semantic Segmentation  <br> <sub><sup>*Chi Wang, Yunke Zhang, Miaomiao Cui, Peiran Ren, et al.*</sup></sub> | [Paper](https://www.aaai.org/AAAI22Papers/AAAI-2277.WangC.pdf)/Code |
 |      ---     |    ---      |    ---       |     ---      |
 |   2021   |   TCYB   | PANet: Patch-Aware Network for Light Field Salient Object Detection  <br> <sub><sup>*Yongri Piao, Huchuan Lu, et al.*</sup></sub>                              | Paper/Code                                                   |
@@ -241,6 +241,12 @@ A curated list of awesome resources for salient object detection (SOD), focusing
 2022 | DFTR: Depth-supervised Fusion Transformer for Salient Object Detection | Heqin Zhu, et al. | [Paper](https://arxiv.org/abs/2203.06429)/Code
 
 
+
+#### 2024
+
+| **Pub.** | **Title**                                                    | **Author**                                                   | **Links**                                                    |
+| :------: | :----------------------------------------------------------- | :----------------------------------------------------------- | :----------------------------------------------------------- |
+ICML | Size-invariance Matters: Rethinking Metrics and Losses for Imbalanced Multi-object Salient Object Detection | Feiran Li, Qianqian Xu, et al. | [Paper](https://arxiv.org/abs/2405.09782)/[Code](https://github.com/Ferry-Li/SI-SOD)
 
 
 #### 2022
