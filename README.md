@@ -2,7 +2,7 @@
 
 A curated list of awesome resources for salient object detection (SOD), focusing more on multimodal SODs (e.g., RGB-D SOD). We will keep updating it.
 
-:heavy_exclamation_mark:Updated 2022-06-27.
+:heavy_exclamation_mark:Updated 2024-06-19.
 
 
 
