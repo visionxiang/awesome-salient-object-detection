@@ -35,9 +35,7 @@ A curated list of awesome resources for salient object detection (SOD), focusing
 
 | **Year** | **Pub.** | **Title**              | **Links**                                                    |
 | :------: | :------- | :----------------------------------------------------------- | :------------------------------------------------------------ |
-|   2023  | arXiv | All in One: RGB, RGB-D, and RGB-T Salient Object Detection   <br> <sub><sup>*Xingzhao Jia, Zhongqiu Zhao, Changlei Dongye, Zhao Zhang*</sup></sub>   | [Paper](https://arxiv.org/abs/2311.14746)/Code
-|   2022  | arXiv | GroupTransNet: Group Transformer Network for RGB-D Salient Object Detection <br> <sub><sup>*Xian Feng, Jinshao Zhu, et al.*</sup></sub>   | [Paper](https://arxiv.org/abs/2203.10785)/Code
-|   2021  | arXiv12 | TransCMD: Cross-Modal Decoder Equipped with Transformer for RGB-D Salient Object Detection <br> <sub><sup>*Youwei Pang, Lihe Zhang, et al.*</sup></sub>  | [Paper](https://arxiv.org/abs/2112.02363)/Code
+|   2023  | arXiv | All in One: RGB, RGB-D, and RGB-T Salient Object Detection   <br> <sub><sup>*Xingzhao Jia, Zhongqiu Zhao, Changlei Dongye, Zhao Zhang*</sup></sub>   | [Paper](https://arxiv.org/abs/2311.14746)/Code 
 
 
 
@@ -57,6 +55,7 @@ A curated list of awesome resources for salient object detection (SOD), focusing
 
 | **Year** | **Pub.** | **Title** |  **Links**                                       |
 | :-----: | :------: | :----------------------------------------------------------- |   :----------------------------------------------------------- |
+|   2023   |  TIP  | CAVER: Cross-Modal View-Mixed Transformer for Bi-Modal Salient Object Detection <br> <sub><sup>*Youwei Pang, Xiaoqi Zhao, Lihe Zhang, Huchuan Lu*</sup></sub> | [Paper](https://arxiv.org/abs/2112.02363v3)/[Code](https://github.com/lartpang/CAVER)
 |   2023   |  IJCV | Delving into Calibrated Depth for Accurate RGB-D Salient Object Detection   <br> <sub><sup>*Jingjing Li, Wei Ji, Miao Zhang, Yongri Piao, Huchuan Lu, Li Cheng*</sup></sub> | [Paper](https://link.springer.com/article/10.1007/s11263-022-01734-1)/Code
 |   2023   |  TMM | CATNet: A Cascaded and Aggregated Transformer Network for RGB-D Salient Object Detection    <br> <sub><sup>*Fuming Sun; Peng Ren; Bowen Yin; Fasheng Wang; Haojie Li*</sup></sub> | [Paper](https://ieeexplore.ieee.org/document/10179145)/Code
 |   2023   |  TMM | Transformer Fusion and Pixel-Level Contrastive Learning for RGB-D Salient Object Detection   <br> <sub><sup>*Jiesheng Wu; Fangwei Hao; Weiyun Liang; Jing Xu*</sup></sub> | [Paper](https://ieeexplore.ieee.org/document/10122979)/Code
