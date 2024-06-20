@@ -49,7 +49,7 @@
 |   2024   |  PAMI | Robust Perception and Precise Segmentation for Scribble-Supervised RGB-D Saliency Detection   <br> <sub><sup>*Long Li, Junwei Han, Nian Liu, Salman Khan, Hisham Cholakkal, Rao Muhammad Anwer, Fahad Shahbaz Khan*</sup></sub> | [Paper](https://ieeexplore.ieee.org/document/10288361)/Code
 |   2024  | KBS | MAGNet: Multi-scale Awareness and Global fusion Network for RGB-D salient object detection  <br> <sub><sup>*Mingyu Zhong, Jing Sun, Peng Ren, Fasheng Wang, Fuming Sun*</sup></sub> | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705124007603)/[Code](https://github.com/mingyu6346/MAGNet)
 |   2024   |  TCSVT | Mutual Information Regularization for Weakly-Supervised RGB-D Salient Object Detection   <br> <sub><sup>*Aixuan Li; Yuxin Mao; Jing Zhang; Yuchao Dai*</sup></sub> | [Paper](https://ieeexplore.ieee.org/document/10148985)/[Code](https://npucvr.github.io/MIRV/)
-|   2024   |  TCSVT | Feature Calibrating and Fusing Network for RGB-D Salient Object Detection   <br> <sub><sup>*Qiang Zhang; Qi Qin; Yang Yang; Qiang Jiao; Jungong Han*</sup></sub> | [Paper](https://ieeexplore.ieee.org/abstract/document/10185946)
+|   2024   |  TCSVT | Feature Calibrating and Fusing Network for RGB-D Salient Object Detection   <br> <sub><sup>*Qiang Zhang; Qi Qin; Yang Yang; Qiang Jiao; Jungong Han*</sup></sub> | [Paper](https://ieeexplore.ieee.org/abstract/document/10185946)/Code
 
 
 ### 2023
