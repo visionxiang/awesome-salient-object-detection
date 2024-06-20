@@ -1,6 +1,6 @@
 # Salient Object Detection
 
-A curated list of awesome resources for salient object detection (SOD), focusing more on multimodal SODs (e.g., RGB-D SOD). We will keep updating it.
+A curated list of awesome resources for salient object detection (SOD), focusing more on multi-modal SODs (e.g., RGB-D SOD). We will keep updating it.
 
 :heavy_exclamation_mark:Updated 2024-06-19.
 
@@ -14,6 +14,7 @@ A curated list of awesome resources for salient object detection (SOD), focusing
 - [Overview](#Overview)
 - [RGB-D SOD](#RGB-D-SOD)
 - [RGB-T SOD](#RGB-T-SOD)
+- [V-D-T SOD](#V-D-T-SOD)
 - [Image SOD](#Image-SOD)
 - [Appendix](#Appendix)
 
@@ -29,6 +30,7 @@ A curated list of awesome resources for salient object detection (SOD), focusing
 
 
 
+
 ## RGB-D SOD
 
 ### Preprint
@@ -39,16 +41,14 @@ A curated list of awesome resources for salient object detection (SOD), focusing
 
 
 
-
-
 ### 2024
 
 | **Year** | **Pub.** | **Title** |  **Links**                                       |
 | :-----: | :------: | :----------------------------------------------------------- |   :----------------------------------------------------------- |
 | 2024  | IJCV  |  ViDSOD-100: A New Dataset and a Baseline Model for RGB-D Video Salient Object Detection  <br> <sub><sup>*Junhao Lin, Lei Zhu, Jiaxing Shen, Huazhu Fu, Qing Zhang & Liansheng Wang*</sup></sub> | [Paper](https://arxiv.org/abs/2406.12536v1)/[Code](https://github.com/jhl-Det/RGBD_Video_SOD) 
-| 2024  |  TIP  |	Quality-Aware Selective Fusion Network for V-D-T Salient Object Detection   <br> <sub><sup>*Liuxin Bao, Xiaofei Zhou, Xiankai Lu, Yaoqi Sun, Haibing Yin, Zhenghui Hu, Jiyong Zhang, Chenggang Yan*</sup></sub> | [Paper](https://arxiv.org/abs/2405.07655)/[Code](https://github.com/Lx-Bao/QSFNet)
 |  2024   | TNNLS | EM-Trans: Edge-Aware Multimodal Transformer for RGB-D Salient Object Detection   <br> <sub><sup>*Geng Chen; Qingyue Wang; Bo Dong; Ruitao Ma; Nian Liu; Huazhu Fu; Yong Xia*</sup></sub> | [Paper](https://ieeexplore.ieee.org/abstract/document/10433541)/Code
 |   2024   |  PAMI | Robust Perception and Precise Segmentation for Scribble-Supervised RGB-D Saliency Detection   <br> <sub><sup>*Long Li, Junwei Han, Nian Liu, Salman Khan, Hisham Cholakkal, Rao Muhammad Anwer, Fahad Shahbaz Khan*</sup></sub> | [Paper](https://ieeexplore.ieee.org/document/10288361)/Code
+|   2024  | KBS | MAGNet: Multi-scale Awareness and Global fusion Network for RGB-D salient object detection  <br> <sub><sup>*Mingyu Zhong, Jing Sun, Peng Ren, Fasheng Wang, Fuming Sun*</sup></sub> | [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705124007603)/[Code](https://github.com/mingyu6346/MAGNet)
 |   2024   |  TCSVT | Mutual Information Regularization for Weakly-Supervised RGB-D Salient Object Detection   <br> <sub><sup>*Aixuan Li; Yuxin Mao; Jing Zhang; Yuchao Dai*</sup></sub> | [Paper](https://ieeexplore.ieee.org/document/10148985)/[Code](https://npucvr.github.io/MIRV/)
 
 
@@ -230,6 +230,15 @@ A curated list of awesome resources for salient object detection (SOD), focusing
 | 2022 | TIM | Real-time One-stream Semantic-guided Refinement Network for RGB-Thermal Salient Object Detection  <br><sub><sup>*Fushuo Huo, Xuegui Zhu, Qian Zhang, Ziming Liu, Wenchao Yu*</sup></sub>  | [Paper](https://ieeexplore.ieee.org/abstract/document/9803225)/[Code](https://github.com/huofushuo/OSRNet)
 | 2022 | TIP | Weakly Alignment-free RGBT Salient Object Detection with Deep Correlation Network   <br><sub><sup>*Zhengzheng Tu, Zhun Li, Chenglong Li, Jin Tang*</sup></sub>  | [Paper](https://ieeexplore.ieee.org/abstract/document/9779787)/[Code](https://github.com/lz118/Deep-Correlation-Network)
 
+
+
+
+## V-D-T SOD
+
+| **Year** | **Pub.** | **Title** |  **Links**                                       |
+| :-----: | :------: | :----------------------------------------------------------- |   :----------------------------------------------------------- |
+| 2024  | TCSVT| Dynamic Weighted Fusion and Progressive Refinement Network for Visible-Depth-Thermal Salient Object Detection   <br> <sub><sup>*Yi Luo; Feng Shao; Baoyang Mu; Hangwei Chen; Zhuo Li; Qiuping Jiang*</sup></sub> | [Paper](https://ieeexplore.ieee.org/document/10556617)/Code
+| 2024  |  TIP  |	Quality-Aware Selective Fusion Network for V-D-T Salient Object Detection   <br> <sub><sup>*Liuxin Bao, Xiaofei Zhou, Xiankai Lu, Yaoqi Sun, Haibing Yin, Zhenghui Hu, Jiyong Zhang, Chenggang Yan*</sup></sub> | [Paper](https://arxiv.org/abs/2405.07655)/[Code](https://github.com/Lx-Bao/QSFNet) 
 
 
 
