@@ -1,9 +1,8 @@
 # Salient Object Detection
 
-A curated list of awesome resources for salient object detection (SOD), focusing more on multi-modal SODs (e.g., RGB-D SOD). We will keep updating it.
+🔥 A curated list of awesome resources for salient object detection (SOD), focusing more on multi-modal SODs (e.g., RGB-D/RGB-T SOD).
 
-:heavy_exclamation_mark:Updated 2024-06-19.
-
+:heavy_exclamation_mark:Updated at 2024-06-19.
 
 
 --------------------------------------------------------------------------------------
