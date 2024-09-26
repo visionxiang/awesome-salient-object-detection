@@ -44,6 +44,7 @@
 
 | **Year** | **Pub.** | **Title** |  **Links**                                       |
 | :-----: | :------: | :----------------------------------------------------------- |   :----------------------------------------------------------- |
+| 2024  | AppSci | Advancing in RGB-D Salient Object Detection: A Survey   <br> <sub><sup>*Ai Chen, Xin Li, Tianxiang He, Junlin Zhou, and Duanbing Chen*</sup></sub> | [Paper](https://www.mdpi.com/2076-3417/14/17/8078)/Code 
 | 2024  | IJCV  |  ViDSOD-100: A New Dataset and a Baseline Model for RGB-D Video Salient Object Detection  <br> <sub><sup>*Junhao Lin, Lei Zhu, Jiaxing Shen, Huazhu Fu, Qing Zhang & Liansheng Wang*</sup></sub> | [Paper](https://arxiv.org/abs/2406.12536v1)/[Code](https://github.com/jhl-Det/RGBD_Video_SOD) 
 |  2024   | TNNLS | EM-Trans: Edge-Aware Multimodal Transformer for RGB-D Salient Object Detection   <br> <sub><sup>*Geng Chen; Qingyue Wang; Bo Dong; Ruitao Ma; Nian Liu; Huazhu Fu; Yong Xia*</sup></sub> | [Paper](https://ieeexplore.ieee.org/abstract/document/10433541)/Code
 |   2024   |  PAMI | Robust Perception and Precise Segmentation for Scribble-Supervised RGB-D Saliency Detection   <br> <sub><sup>*Long Li, Junwei Han, Nian Liu, Salman Khan, Hisham Cholakkal, Rao Muhammad Anwer, Fahad Shahbaz Khan*</sup></sub> | [Paper](https://ieeexplore.ieee.org/document/10288361)/Code
